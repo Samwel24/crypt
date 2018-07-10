@@ -1,0 +1,27 @@
+{
+    "name": "dreamaker/ncrypt",
+    "description": "this will encrypt and decrypt what ever data you parse into it",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SamuelEzedi",
+            "email": "sammyandrew44@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dreamaker\\Crypt\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dreamaker\\Crypt\\ContactServiceProvider"
+                
+            ]
+        }
+    }
+}
