@@ -1,12 +1,8 @@
 # NCRYPT (Laravel Package)
 
-[![Build Status](https://travis-ci.org/Zizaco/entrust.svg)](https://travis-ci.org/Zizaco/entrust)
-[![Version](https://img.shields.io/packagist/v/Zizaco/entrust.svg)](https://packagist.org/packages/zizaco/entrust)
-[![License](https://poser.pugx.org/zizaco/entrust/license.svg)](https://packagist.org/packages/zizaco/entrust)
-[![Total Downloads](https://img.shields.io/packagist/dt/zizaco/entrust.svg)](https://packagist.org/packages/zizaco/entrust)
+[![Issues](https://img.shields.io/github/issues/Samwel24/crypt.svg)](https://github.com/Samwel24/crypt/issues)
+[![Forks](https://img.shields.io/github/forks/Samwel24/crypt.svg)](https://github.com/Samwel24/crypt/network)
+[![License](https://img.shields.io/github/license/Samwel24/crypt.svg)](https://github.com/Samwel24/crypt)
 
 
 Ncrypt is a small package to help make simple basic encrytion in Laravel**.
-
-## Contents
-
