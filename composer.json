@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Dreamaker\\Crypt\\ContactServiceProvider"
+                "Dreamaker\\Crypt\\CryptServiceProvider"
                 
             ]
         }
